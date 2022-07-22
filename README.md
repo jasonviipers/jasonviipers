@@ -16,7 +16,7 @@
 
 <br />
 <!-- [Jason Michel YT](https://chatr.fr/), -->
-I'm a passionate self-taught full stack web developer and a freelance software engineer from France. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+I'm a passionate self-taught d and a freelance software engineer from France. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -54,10 +54,10 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 30 mins   █████████████████████▒░░░   84.84 %
-TypeScript   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+TypeScript   8 hrs 30 mins   █████████████████████▒░░░   84.84 %
+JavaScript   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other        20 mins         █████░░░░░░░░░░░░░░░░▒░░░   20.16 %
 ```
 
 <!--END_SECTION:waka-->
