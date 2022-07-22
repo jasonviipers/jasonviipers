@@ -49,7 +49,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" ></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon service"></code>
 
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
