@@ -131,7 +131,7 @@ Java                     1 repo              █████░░░░░░�
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
 🏆  250 Karma Points           
-🌸  Completed 16 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 16 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
