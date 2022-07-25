@@ -52,10 +52,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
