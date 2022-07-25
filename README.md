@@ -58,7 +58,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-🏆  150 Karma Points           
+🏆  250 Karma Points           
 🌸  Completed 16 tasks today           
 ✅  Completed 16 tasks so far           
 ⏳  Longest streak is 1 days
