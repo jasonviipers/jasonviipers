@@ -67,5 +67,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasonviipers&show_icons=true&theme=gotham" alt="jasonviipers" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonviipers&show_icons=true&theme=gotham" alt="jasonviipers" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonviipers&theme=gotham)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonviipers&show_icons=true&theme=gotham)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonviipers&show_icons=true&theme=gotham)
+
