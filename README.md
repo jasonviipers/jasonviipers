@@ -53,7 +53,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,16 +96,23 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs               ██████████████░░░░░░░░░░░   56.61% 
+YAML                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 19 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backend                  2 hrs 47 mins       █████████████░░░░░░░░░░░░   52.32% 
+jasonviipers             1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+server                   1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.15% 
+Learn Py                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +130,7 @@ Java                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2022 20:36:39 UTC
+ Last Updated on 26/07/2022 04:54:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
