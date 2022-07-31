@@ -140,9 +140,9 @@ PHP                      1 repo              ████░░░░░░░�
 
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-🏆  250 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 16 tasks so far           
+🏆  300 Karma Points           
+🌸  Completed 8 tasks today           
+✅  Completed 24 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
