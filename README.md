@@ -51,15 +51,15 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 104 Contributions in the Year 2022
+> 🏆 103 Contributions in the Year 2022
  > 
-> 📦 19.0 kB Used in GitHub's Storage 
+> 📦 19.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,21 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-🌆 Daytime    36 commits     ███████████░░░░░░░░░░░░░░   43.9% 
-🌃 Evening    25 commits     ███████░░░░░░░░░░░░░░░░░░   30.49% 
-🌙 Night      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
+🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+🌆 Daytime    39 commits     ███████████░░░░░░░░░░░░░░   45.88% 
+🌃 Evening    25 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
+🌙 Night      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   23.17% 
-Tuesday      14 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Wednesday    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
+Monday       22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
+Tuesday      14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
+Wednesday    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
-Saturday     19 commits     █████░░░░░░░░░░░░░░░░░░░░   23.17% 
+Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Saturday     19 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -133,7 +133,7 @@ PHP                      1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2022 10:46:49 UTC
+ Last Updated on 01/08/2022 13:58:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
