@@ -51,13 +51,13 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 111 Contributions in the Year 2022
+> 🏆 113 Contributions in the Year 2022
  > 
 > 📦 19.1 kB Used in GitHub's Storage 
  > 
@@ -70,21 +70,21 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-🌆 Daytime    39 commits     ███████████░░░░░░░░░░░░░░   44.32% 
-🌃 Evening    28 commits     ████████░░░░░░░░░░░░░░░░░   31.82% 
-🌙 Night      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+🌞 Morning    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    41 commits     ███████████░░░░░░░░░░░░░░   45.56% 
+🌃 Evening    28 commits     ███████░░░░░░░░░░░░░░░░░░   31.11% 
+🌙 Night      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       25 commits     ███████░░░░░░░░░░░░░░░░░░   28.41% 
-Tuesday      14 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Wednesday    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Monday       25 commits     ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Tuesday      16 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+Wednesday    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Saturday     19 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Saturday     19 commits     █████░░░░░░░░░░░░░░░░░░░░   21.11% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -134,7 +134,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 08:53:24 UTC
+ Last Updated on 02/08/2022 10:48:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
