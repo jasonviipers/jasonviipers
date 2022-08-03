@@ -51,7 +51,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-243-blue)
 
@@ -59,7 +59,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 > 🏆 113 Contributions in the Year 2022
  > 
-> 📦 19.2 kB Used in GitHub's Storage 
+> 📦 19.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,7 +134,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2022 14:33:37 UTC
+ Last Updated on 03/08/2022 17:02:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
