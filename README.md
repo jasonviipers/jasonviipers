@@ -51,21 +51,21 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 143 Contributions in the Year 2022
+> 🏆 93 Contributions in the Year 2022
  > 
 > 📦 18.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -135,7 +135,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 08:24:26 UTC
+ Last Updated on 22/08/2022 10:22:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
