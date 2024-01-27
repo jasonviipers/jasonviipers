@@ -7,7 +7,6 @@
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/chatr/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png"> LinkedIn</a></code>
   <code><a href="https://twitter.com/chatrjason" title="twitter Profile"><img width="22" src="https://platform-cdn.sharethis.com/img/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/chatrseo/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"> Instagram</a></code>
 </h4>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonviipers.jasonviipers)
