@@ -43,8 +43,9 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" ></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" ></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" ></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" ></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon service"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
