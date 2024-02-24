@@ -59,7 +59,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -127,7 +127,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2024 22:46:55 UTC
+ Last Updated on 24/02/2024 22:53:11 UTC
 <!--END_SECTION:waka-->
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
