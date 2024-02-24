@@ -9,8 +9,6 @@
   <code><a href="https://twitter.com/chatrjason" title="twitter Profile"><img width="22" src="https://platform-cdn.sharethis.com/img/twitter.svg"> Twitter</a></code>
 </h4>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jasonviipers.jasonviipers)
-
 <br />
 <!-- [Jason Michel YT](https://chatr.fr/), -->
 I'm a passionate self-taught Full-Stack Software Engineer and a freelance from France. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
@@ -50,9 +48,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
 
 **🐱 My GitHub Data** 
 
@@ -130,9 +125,6 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 **Timeline**
-
-
-
 
  Last Updated on 24/08/2022 14:18:32 UTC
 <!--END_SECTION:waka-->
