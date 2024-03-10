@@ -47,7 +47,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
@@ -127,7 +127,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 09:58:48 UTC
+ Last Updated on 10/03/2024 10:06:37 UTC
 <!--END_SECTION:waka-->
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
