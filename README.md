@@ -90,23 +90,16 @@ Sunday                   67 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 34 mins       █████████████████████░░░░   82.59 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ecommerce                3 hrs 58 mins       ███████████████████████░░   91.78 % 
-turborepo-shadcn-ui      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-mow                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-porfolio                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +119,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 23:00:07 UTC
+ Last Updated on 23/03/2024 23:08:16 UTC
 <!--END_SECTION:waka-->
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
