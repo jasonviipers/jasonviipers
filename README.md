@@ -55,8 +55,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 247 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -119,7 +117,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 16:59:40 UTC
+ Last Updated on 22/04/2024 17:07:55 UTC
 <!--END_SECTION:waka-->
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
