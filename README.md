@@ -55,7 +55,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 286 Contributions in the Year 2024
+> 🏆 304 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,11 +105,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   45.16 % 
-PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Dart                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
+PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Dart                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -119,7 +119,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2024 12:46:39 UTC
+ Last Updated on 03/05/2024 12:55:43 UTC
 <!--END_SECTION:waka-->
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
