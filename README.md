@@ -83,53 +83,10 @@ Saturday                 427 commits         █████░░░░░░�
 Sunday                   99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
+###
 
-📊 **This Week I Spent My Time On** 
+<br clear="both">
 
-```text
-🕑︎ Time Zone: Europe/Berlin
+<img src="https://raw.githubusercontent.com/jasonviipers/jasonviipers/output/snake.svg" alt="Snake animation" />
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
-PHP                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Dart                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jasonviipers/jasonviipers/main/assets/bar_graph.png)
-
-
- Last Updated on 24/05/2024 18:21:37 UTC
-<!--END_SECTION:waka-->
-<!-- 🚧 **my todoist stats:** -->
-<!-- TODO-IST:START -->
-
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonviipers&theme=gotham)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonviipers&show_icons=true&theme=gotham)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonviipers&show_icons=true&theme=gotham)
-
+###
