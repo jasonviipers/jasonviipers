@@ -45,12 +45,12 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
 <code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon service"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino"></code>
 
-📊 **this week i spent my time on:**
+<!-- 📊 **this week i spent my time on:** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2028%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2028%20mins-blue) -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue) -->
+<!-- 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -63,17 +63,17 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned a lot
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
+**I'm an Early 🐤**  -->
+<!-- 
 ```text
 🌞 Morning                392 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
 🌆 Daytime                846 commits         ██████████░░░░░░░░░░░░░░░   40.17 % 
 🌃 Evening                692 commits         ████████░░░░░░░░░░░░░░░░░   32.86 % 
 🌙 Night                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-```
-📅 **I'm Most Productive on Thursday** 
+``` -->
+<!-- 📅 **I'm Most Productive on Thursday**  -->
 
-```text
+<!-- ```text
 Monday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 Tuesday                  299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 Wednesday                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
@@ -81,12 +81,12 @@ Thursday                 473 commits         ██████░░░░░�
 Friday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 Saturday                 427 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 Sunday                   99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-```
+``` -->
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jasonviipers/jasonviipers/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jasonviipers/jasonviipers/output/snake.svg" alt="Snake animation" /> -->
 
 ###
